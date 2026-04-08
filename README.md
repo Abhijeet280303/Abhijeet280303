@@ -75,9 +75,9 @@ I’m a **curious full-stack developer** on a mission to create meaningful tech 
 
 ## 📫 Connect with Me
 
-- [LinkedIn](https://www.linkedin.com/in/abhijeet-r-/)  
-- [GitHub](https://github.com/yourusername)  
-- Email: your.email@example.com  
+- [LinkedIn](https://www.linkedin.com/in/abhijeet-rajangaonkar-214552265/)  
+
+- Email: rajangaonkarabhijeet@gmail.com 
 
 ---
 
